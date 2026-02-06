@@ -8,7 +8,7 @@
           <span class="title-line text-gradient">Video Demos</span>
         </h1>
         <p class="hero-subtitle">
-          Explore our collection of stunning mobile application demonstrations
+          Explore our collection of stunning Web application demonstrations
         </p>
       </div>
       
